@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Produtos</string>
+    <string name="message_error_load_products">Erro ao carregar listagem</string>
+</resources>
